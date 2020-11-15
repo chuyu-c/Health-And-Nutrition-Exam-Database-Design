@@ -17,7 +17,7 @@ Major focus: Demographics, Blood pressure, Body Measurements, Chronic diseases, 
 ### Business Use Case
 
 This information can be used to understand and improve the health status of the U.S. population:
-Predicting occurrence of chronic health conditions based on demographics and health exam status (such as blood pressure, cholesterol etc.)
-Patient Wellness Improvement
-Risk scoring for cigarette, alcohol usage based on demographics
-Determine how BMI is associated with physical activity and smoking
+* Predicting occurrence of chronic health conditions based on demographics and health exam status (such as blood pressure, cholesterol etc.)
+* Patient Wellness Improvement
+* Risk scoring for cigarette, alcohol usage based on demographics
+* Determine how BMI is associated with physical activity and smoking
